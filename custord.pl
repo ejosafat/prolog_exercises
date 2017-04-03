@@ -1,12 +1,12 @@
 % A customer order entry application
 
-customer(Juan, 'Las Palmas', aaa).
-customer(Pedro, 'Las Palmas', aab).
-customer(Lucas, Telde, aaa).
-customer(Marcos, Telde, aac).
-customer(Pedro, Arucas, aba).
-customer(Jose, Galdar, baa).
-customer(Judas, 'La Aldea', ccc).
+customer('Juan', 'Las Palmas', aaa).
+customer('Pedro', 'Las Palmas', aab).
+customer('Lucas', 'Telde', aaa).
+customer('Marcos', 'Telde', aac).
+customer('Pedro', 'Arucas', aba).
+customer('Jose', 'Galdar', baa).
+customer('Judas', 'La Aldea', ccc).
 
 item(1, phone, 10).
 item(2, speakers, 5).
